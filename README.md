@@ -44,7 +44,7 @@
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: (Add your link)
+* 💼 LinkedIn: https://www.linkedin.com/in/humera-anjum-a15b0a360?utm_source=share_via&utm_content=profile&utm_medium=member_android 
 * 📧 Email: humeraanjum942458@gmail.com
 
 ---
