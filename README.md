@@ -44,7 +44,8 @@
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/humera-anjum-a15b0a360?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+* 💼 LinkedIn: https://linkedin.com/in/humera-anjum-qadri
+
 * 📧 Email: humeraanjum942458@gmail.com
 
 ---
