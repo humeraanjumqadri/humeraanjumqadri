@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Humaira Anjum Qadri
 
-<!--
-**humeraanjumqadri/humeraanjumqadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | JavaScript Learner
+🚀 Passionate about building responsive and user-friendly web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* 🌐 HTML5, CSS3
+* ⚡ JavaScript (Basics & DOM Manipulation)
+* 🔧 Git & GitHub
+
+---
+
+## 🤖 AI Tools I Use
+
+* ChatGPT – for code debugging, logic building & learning concepts
+* Google Gemini – for research, ideas & UI/UX improvement
+
+💡 I use AI to understand concepts better, fix bugs faster, and improve my coding skills.
+
+---
+
+## 📂 Projects
+
+🔹 Expense Tracker
+🔹 Notes App
+🔹 To-Do List
+🔹 Calculator with History
+🔹 Job Application Tracker
+
+👉 Explore my repositories below 👇
+
+---
+
+## 🌱 Currently Learning
+
+* JavaScript (Advanced Concepts)
+* React.js (Beginner Level)
+* API Integration
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: (Add your link)
+* 📧 Email: humeraanjum942458@gmail.com
+
+---
+
+⭐ If you like my work, consider giving a star!
